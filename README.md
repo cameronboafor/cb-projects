@@ -5,8 +5,8 @@
 
 - <b>Configuring Elastic Stack SIEM using Kali Linux. </b>
   - [Configuring Elastic Stack SIEM](https://github.com/cameronboafor/ElasticSiemLab.git)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>ASA Firewall configuration</b>
+  - [ASA Firewall configuration and deployment](https://github.com/cameronboafor/basic-firewall-config/tree/main) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
