@@ -7,8 +7,8 @@
   - [Configuring Elastic Stack SIEM](https://github.com/cameronboafor/ElasticSiemLab.git)
 - <b>ASA Firewall configuration</b>
   - [ASA Firewall configuration and deployment](https://github.com/cameronboafor/basic-firewall-config/tree/main) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Azure Detection Lab</b>
+  - [Lab Setup](https://github.com/cameronboafor/azuredetectionlab/tree/main)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - (https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
