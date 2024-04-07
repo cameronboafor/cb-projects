@@ -8,10 +8,7 @@
 - <b>ASA Firewall configuration</b>
   - [ASA Firewall configuration and deployment](https://github.com/cameronboafor/basic-firewall-config/tree/main) 
 - <b>Azure Detection Lab</b>
-  - [Lab Setup](https://github.com/cameronboafor/azuredetectionlab/tree/main)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - (https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Azure Detection Lab](https://github.com/cameronboafor/azuredetectionlab/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
